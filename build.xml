@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Build script generado para ProyectoSemestre (NetBeans Ant-based) -->
+<project name="ProyectoSemestre" default="default" basedir=".">
+    <description>Builds, tests, and runs the project ProyectoSemestre.</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>
